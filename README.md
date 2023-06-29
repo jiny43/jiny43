@@ -1,5 +1,5 @@
-🌱 안녕하세요 개발자 꿈나무 정지은입니다.🌱 
-
+ 
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=jieun's_github🌱)
 
 
 
