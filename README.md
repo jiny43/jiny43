@@ -25,7 +25,16 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=ReactNative&logoColor=white"/></a>
+
+
+
+## 📚One I've Used
 <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat-square&logo=Nestjs&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+
+
 
 </div>
 
