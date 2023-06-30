@@ -6,7 +6,7 @@
 
 
 <h1>🖐️Introdution</h1>
-<p>안녕하세요! 개발을 사랑하는 신입 개발자 정지은입니다!</p>
+<p>안녕하세요! 개발을 사랑하고 다양한 언어를 배우는 것을 좋아합니다!</p>
 
 ![jiny43's github stats](https://github-readme-stats.vercel.app/api?username=jiny43&show_icons=true)
 
