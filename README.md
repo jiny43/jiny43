@@ -1,12 +1,24 @@
 
-
+ <div align=center>
+  
 ![header](https://capsule-render.vercel.app/api?color=timeGradient&customColorList=0,2,2,5,30&text=jieun's%20github🌱)
+
+
+
+<h1>🖐️Introdution</h1>
+<p>안녕하세요! 개발을 사랑하는 신입 개발자 정지은입니다!</p>
+
 ![jiny43's github stats](https://github-readme-stats.vercel.app/api?username=jiny43&show_icons=true)
+
+
 
 ## 🥰개인페이지
 <a href="https://jieun.store/">https://jieun.store/
+
+
+
  
-## 🔨  I've used 🔨
+## 🔨  Skill  🔨
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -14,7 +26,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=ReactNative&logoColor=white"/></a>
 
-
+</div>
 
 
 
