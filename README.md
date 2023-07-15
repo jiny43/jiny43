@@ -12,8 +12,6 @@
 
 
 
-## 🥰개인페이지
-<a href="https://jieun.store/">https://jieun.store/
 
 
 
