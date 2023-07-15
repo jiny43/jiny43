@@ -1,19 +1,16 @@
 
  <div align=center>
   
-![header](https://capsule-render.vercel.app/api?color=timeGradient&customColorList=0,2,2,5,30&text=jieun's%20github🌱)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=정지은입니다%20&fontSize=50&animation=fadeIn&fontColor=d6ace6!&desc=🤗%20Welcome%20to%20my%20GitHub)
+
+</div>
+
+## 지은/jieun
 
 
 
-<h1>🖐️Introdution</h1>
-<p>안녕하세요! 개발을 사랑하고 다양한 언어를 배우는 것을 좋아합니다!</p>
 
 ![jiny43's github stats](https://github-readme-stats.vercel.app/api?username=jiny43&show_icons=true)
-
-
-
-
-
 
  
 ## 🔨  Skill  🔨
@@ -23,19 +20,19 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+</br>
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=ReactNative&logoColor=white"/></a>
-
-
-
-## 📚One I've Used
 <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat-square&logo=Nestjs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+<br>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 
 
-
-</div>
 
 
 
