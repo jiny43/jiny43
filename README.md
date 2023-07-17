@@ -7,11 +7,6 @@
 
 ## 지은/jieun
 
-
-
-
-![jiny43's github stats](https://github-readme-stats.vercel.app/api?username=jiny43&show_icons=true)
-
  
 ## 🔨  Skill  🔨
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
@@ -32,7 +27,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 
-
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
